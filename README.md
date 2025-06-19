@@ -39,7 +39,7 @@ This is a Spring Boot-based REST API to manage employee performance, departments
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/employee-performance-mgmt.git
+git clone https://github.com/rajatlokhande785/employee-performance-mgmt.git
 cd employee-performance-mgmt
 ```
 ### 1. Clone the Repository
